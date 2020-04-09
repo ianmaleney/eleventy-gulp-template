@@ -1,7 +1,8 @@
 {
   "name": "eleventy-gulp-template",
   "version": "1.0.1",
-  "description": "",
+  "description": "Basic starter pack for static websites with Eleventy and Gulp.",
+  "repository": "github:ianmaleney/eleventy-gulp-template",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "debug": "DEBUG=* npx eleventy",
